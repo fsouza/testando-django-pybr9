@@ -3,7 +3,6 @@
 import os
 
 BASE_PATH = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
-TEST_RUNNER = 'loja.runner.SmartRunner'
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
